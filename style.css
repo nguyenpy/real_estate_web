@@ -897,9 +897,8 @@ nav{
 .contact_box{
     width: 100%;
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    gap: 10px;
+    gap: 30px;
     padding-bottom: 30px;
 }
 
